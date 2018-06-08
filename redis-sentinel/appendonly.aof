@@ -1,0 +1,500 @@
+*2
+$6
+SELECT
+$1
+0
+*3
+$3
+SET
+$1
+f
+$1
+f
+*3
+$3
+SET
+$1
+a
+$1
+a
+*3
+$3
+SET
+$4
+test
+$4
+test
+*3
+$3
+SET
+$3
+map
+$56
+{"a1":"a1","a":"a","a2":"a2","a3":"a","a4":"a","a5":"a"}
+*3
+$3
+SET
+$4
+time
+$23
+2018年05月30日12:13:
+*2
+$6
+SELECT
+$1
+0
+*3
+$3
+SET
+$3
+map
+$56
+{"a1":"a1","a":"a","a2":"a2","a3":"a","a4":"a","a5":"a"}
+*3
+$3
+SET
+$3
+map
+$56
+{"a1":"a1","a":"a","a2":"a2","a3":"a","a4":"a","a5":"a"}
+*3
+$3
+SET
+$3
+map
+$56
+{"a1":"a1","a":"a","a2":"a2","a3":"a","a4":"a","a5":"a"}
+*3
+$3
+SET
+$3
+map
+$56
+{"a1":"a1","a":"a","a2":"a2","a3":"a","a4":"a","a5":"a"}
+*3
+$3
+SET
+$3
+map
+$56
+{"a1":"a1","a":"a","a2":"a2","a3":"a","a4":"a","a5":"a"}
+*3
+$3
+SET
+$9
+OA_CODE_1
+$171
+OaNoCode{codeid='1', commandName=班车信息公告, typeCode='BUS', commandType='B', increasseRule='201703', lastTime=2017-03-14 16:37:09.0, codeNum='001', remark='null'}
+*3
+$3
+SET
+$9
+OA_CODE_1
+$171
+OaNoCode{codeid='1', commandName=班车信息公告, typeCode='BUS', commandType='B', increasseRule='201703', lastTime=2017-03-14 16:37:09.0, codeNum='001', remark='null'}
+*3
+$3
+SET
+$9
+OA_CODE_1
+$171
+OaNoCode{codeid='1', commandName=班车信息公告, typeCode='BUS', commandType='B', increasseRule='201703', lastTime=2017-03-14 16:37:09.0, codeNum='001', remark='null'}
+*3
+$3
+SET
+$9
+OA_CODE_1
+$171
+OaNoCode{codeid='1', commandName=班车信息公告, typeCode='BUS', commandType='B', increasseRule='201703', lastTime=2017-03-14 16:37:09.0, codeNum='001', remark='null'}
+*3
+$3
+SET
+$9
+OA_CODE_1
+$171
+OaNoCode{codeid='1', commandName=班车信息公告, typeCode='BUS', commandType='B', increasseRule='201703', lastTime=2017-03-14 16:37:09.0, codeNum='001', remark='null'}
+*3
+$3
+SET
+$9
+OA_CODE_1
+$171
+OaNoCode{codeid='1', commandName=班车信息公告, typeCode='BUS', commandType='B', increasseRule='201703', lastTime=2017-03-14 16:37:09.0, codeNum='001', remark='null'}
+*3
+$3
+SET
+$9
+OA_CODE_1
+$171
+OaNoCode{codeid='1', commandName=班车信息公告, typeCode='BUS', commandType='B', increasseRule='201703', lastTime=2017-03-14 16:37:09.0, codeNum='001', remark='null'}
+*3
+$3
+SET
+$9
+OA_CODE_1
+$171
+OaNoCode{codeid='1', commandName=班车信息公告, typeCode='BUS', commandType='B', increasseRule='201703', lastTime=2017-03-14 16:37:09.0, codeNum='001', remark='null'}
+*3
+$3
+SET
+$9
+OA_CODE_1
+$171
+OaNoCode{codeid='1', commandName=班车信息公告, typeCode='BUS', commandType='B', increasseRule='201703', lastTime=2017-03-14 16:37:09.0, codeNum='001', remark='null'}
+*3
+$3
+SET
+$9
+OA_CODE_1
+$171
+OaNoCode{codeid='1', commandName=班车信息公告, typeCode='BUS', commandType='B', increasseRule='201703', lastTime=2017-03-14 16:37:09.0, codeNum='001', remark='null'}
+*3
+$3
+SET
+$9
+OA_CODE_1
+$171
+OaNoCode{codeid='1', commandName=班车信息公告, typeCode='BUS', commandType='B', increasseRule='201703', lastTime=2017-03-14 16:37:09.0, codeNum='001', remark='null'}
+*3
+$3
+SET
+$9
+OA_CODE_1
+$171
+OaNoCode{codeid='1', commandName=班车信息公告, typeCode='BUS', commandType='B', increasseRule='201703', lastTime=2017-03-14 16:37:09.0, codeNum='001', remark='null'}
+*3
+$3
+SET
+$9
+OA_CODE_1
+$171
+OaNoCode{codeid='1', commandName=班车信息公告, typeCode='BUS', commandType='B', increasseRule='201703', lastTime=2017-03-14 16:37:09.0, codeNum='001', remark='null'}
+*3
+$3
+SET
+$9
+OA_CODE_1
+$171
+OaNoCode{codeid='1', commandName=班车信息公告, typeCode='BUS', commandType='B', increasseRule='201703', lastTime=2017-03-14 16:37:09.0, codeNum='001', remark='null'}
+*3
+$3
+SET
+$9
+OA_CODE_1
+$171
+OaNoCode{codeid='1', commandName=班车信息公告, typeCode='BUS', commandType='B', increasseRule='201703', lastTime=2017-03-14 16:37:09.0, codeNum='001', remark='null'}
+*3
+$3
+SET
+$9
+OA_CODE_1
+$171
+OaNoCode{codeid='1', commandName=班车信息公告, typeCode='BUS', commandType='B', increasseRule='201703', lastTime=2017-03-14 16:37:09.0, codeNum='001', remark='null'}
+*3
+$3
+SET
+$9
+OA_CODE_1
+$171
+OaNoCode{codeid='1', commandName=班车信息公告, typeCode='BUS', commandType='B', increasseRule='201703', lastTime=2017-03-14 16:37:09.0, codeNum='001', remark='null'}
+*3
+$3
+SET
+$9
+OA_CODE_1
+$171
+OaNoCode{codeid='1', commandName=班车信息公告, typeCode='BUS', commandType='B', increasseRule='201703', lastTime=2017-03-14 16:37:09.0, codeNum='001', remark='null'}
+*3
+$3
+SET
+$9
+OA_CODE_1
+$171
+OaNoCode{codeid='1', commandName=班车信息公告, typeCode='BUS', commandType='B', increasseRule='201703', lastTime=2017-03-14 16:37:09.0, codeNum='001', remark='null'}
+*3
+$3
+SET
+$9
+OA_CODE_1
+$171
+OaNoCode{codeid='1', commandName=班车信息公告, typeCode='BUS', commandType='B', increasseRule='201703', lastTime=2017-03-14 16:37:09.0, codeNum='001', remark='null'}
+*3
+$3
+SET
+$9
+OA_CODE_2
+$171
+OaNoCode{codeid='2', commandName=班车信息公告, typeCode='BUS', commandType='B', increasseRule='201703', lastTime=2017-03-14 17:20:41.0, codeNum='002', remark='null'}
+*3
+$3
+SET
+$9
+OA_CODE_2
+$171
+OaNoCode{codeid='2', commandName=班车信息公告, typeCode='BUS', commandType='B', increasseRule='201703', lastTime=2017-03-14 17:20:41.0, codeNum='002', remark='null'}
+*3
+$3
+SET
+$9
+OA_CODE_2
+$171
+OaNoCode{codeid='2', commandName=班车信息公告, typeCode='BUS', commandType='B', increasseRule='201703', lastTime=2017-03-14 17:20:41.0, codeNum='002', remark='null'}
+*3
+$3
+SET
+$9
+OA_CODE_2
+$171
+OaNoCode{codeid='2', commandName=班车信息公告, typeCode='BUS', commandType='B', increasseRule='201703', lastTime=2017-03-14 17:20:41.0, codeNum='002', remark='null'}
+*3
+$3
+SET
+$9
+OA_CODE_2
+$171
+OaNoCode{codeid='2', commandName=班车信息公告, typeCode='BUS', commandType='B', increasseRule='201703', lastTime=2017-03-14 17:20:41.0, codeNum='002', remark='null'}
+*3
+$3
+SET
+$9
+OA_CODE_2
+$171
+OaNoCode{codeid='2', commandName=班车信息公告, typeCode='BUS', commandType='B', increasseRule='201703', lastTime=2017-03-14 17:20:41.0, codeNum='002', remark='null'}
+*3
+$3
+SET
+$9
+OA_CODE_2
+$171
+OaNoCode{codeid='2', commandName=班车信息公告, typeCode='BUS', commandType='B', increasseRule='201703', lastTime=2017-03-14 17:20:41.0, codeNum='002', remark='null'}
+*3
+$3
+SET
+$9
+OA_CODE_2
+$171
+OaNoCode{codeid='2', commandName=班车信息公告, typeCode='BUS', commandType='B', increasseRule='201703', lastTime=2017-03-14 17:20:41.0, codeNum='002', remark='null'}
+*3
+$3
+SET
+$9
+OA_CODE_2
+$171
+OaNoCode{codeid='2', commandName=班车信息公告, typeCode='BUS', commandType='B', increasseRule='201703', lastTime=2017-03-14 17:20:41.0, codeNum='002', remark='null'}
+*3
+$3
+SET
+$9
+OA_CODE_2
+$171
+OaNoCode{codeid='2', commandName=班车信息公告, typeCode='BUS', commandType='B', increasseRule='201703', lastTime=2017-03-14 17:20:41.0, codeNum='002', remark='null'}
+*3
+$3
+SET
+$9
+OA_CODE_2
+$171
+OaNoCode{codeid='2', commandName=班车信息公告, typeCode='BUS', commandType='B', increasseRule='201703', lastTime=2017-03-14 17:20:41.0, codeNum='002', remark='null'}
+*3
+$3
+SET
+$9
+OA_CODE_2
+$171
+OaNoCode{codeid='2', commandName=班车信息公告, typeCode='BUS', commandType='B', increasseRule='201703', lastTime=2017-03-14 17:20:41.0, codeNum='002', remark='null'}
+*3
+$3
+SET
+$9
+OA_CODE_2
+$171
+OaNoCode{codeid='2', commandName=班车信息公告, typeCode='BUS', commandType='B', increasseRule='201703', lastTime=2017-03-14 17:20:41.0, codeNum='002', remark='null'}
+*3
+$3
+SET
+$9
+OA_CODE_2
+$171
+OaNoCode{codeid='2', commandName=班车信息公告, typeCode='BUS', commandType='B', increasseRule='201703', lastTime=2017-03-14 17:20:41.0, codeNum='002', remark='null'}
+*3
+$3
+SET
+$9
+OA_CODE_2
+$171
+OaNoCode{codeid='2', commandName=班车信息公告, typeCode='BUS', commandType='B', increasseRule='201703', lastTime=2017-03-14 17:20:41.0, codeNum='002', remark='null'}
+*3
+$3
+SET
+$9
+OA_CODE_2
+$171
+OaNoCode{codeid='2', commandName=班车信息公告, typeCode='BUS', commandType='B', increasseRule='201703', lastTime=2017-03-14 17:20:41.0, codeNum='002', remark='null'}
+*3
+$3
+SET
+$9
+OA_CODE_2
+$171
+OaNoCode{codeid='2', commandName=班车信息公告, typeCode='BUS', commandType='B', increasseRule='201703', lastTime=2017-03-14 17:20:41.0, codeNum='002', remark='null'}
+*3
+$3
+SET
+$9
+OA_CODE_2
+$171
+OaNoCode{codeid='2', commandName=班车信息公告, typeCode='BUS', commandType='B', increasseRule='201703', lastTime=2017-03-14 17:20:41.0, codeNum='002', remark='null'}
+*3
+$3
+SET
+$9
+OA_CODE_2
+$171
+OaNoCode{codeid='2', commandName=班车信息公告, typeCode='BUS', commandType='B', increasseRule='201703', lastTime=2017-03-14 17:20:41.0, codeNum='002', remark='null'}
+*3
+$6
+RENAME
+$9
+OA_CODE_2
+$2
+as
+*3
+$3
+SET
+$9
+OA_CODE_2
+$171
+OaNoCode{codeid='2', commandName=班车信息公告, typeCode='BUS', commandType='B', increasseRule='201703', lastTime=2017-03-14 17:20:41.0, codeNum='002', remark='null'}
+*3
+$3
+SET
+$9
+OA_CODE_2
+$171
+OaNoCode{codeid='2', commandName=班车信息公告, typeCode='BUS', commandType='B', increasseRule='201703', lastTime=2017-03-14 17:20:41.0, codeNum='002', remark='null'}
+*3
+$3
+SET
+$9
+OA_CODE_2
+$171
+OaNoCode{codeid='2', commandName=班车信息公告, typeCode='BUS', commandType='B', increasseRule='201703', lastTime=2017-03-14 17:20:41.0, codeNum='002', remark='null'}
+*3
+$3
+SET
+$9
+OA_CODE_2
+$171
+OaNoCode{codeid='2', commandName=班车信息公告, typeCode='BUS', commandType='B', increasseRule='201703', lastTime=2017-03-14 17:20:41.0, codeNum='002', remark='null'}
+*3
+$3
+SET
+$9
+OA_CODE_2
+$171
+OaNoCode{codeid='2', commandName=班车信息公告, typeCode='BUS', commandType='B', increasseRule='201703', lastTime=2017-03-14 17:20:41.0, codeNum='002', remark='null'}
+*3
+$3
+SET
+$9
+OA_CODE_2
+$171
+OaNoCode{codeid='2', commandName=班车信息公告, typeCode='BUS', commandType='B', increasseRule='201703', lastTime=2017-03-14 17:20:41.0, codeNum='002', remark='null'}
+*3
+$3
+SET
+$9
+OA_CODE_2
+$171
+OaNoCode{codeid='2', commandName=班车信息公告, typeCode='BUS', commandType='B', increasseRule='201703', lastTime=2017-03-14 17:20:41.0, codeNum='002', remark='null'}
+*3
+$3
+SET
+$9
+OA_CODE_2
+$171
+OaNoCode{codeid='2', commandName=班车信息公告, typeCode='BUS', commandType='B', increasseRule='201703', lastTime=2017-03-14 17:20:41.0, codeNum='002', remark='null'}
+*3
+$3
+SET
+$9
+OA_CODE_2
+$171
+OaNoCode{codeid='2', commandName=班车信息公告, typeCode='BUS', commandType='B', increasseRule='201703', lastTime=2017-03-14 17:20:41.0, codeNum='002', remark='null'}
+*3
+$3
+SET
+$9
+OA_CODE_2
+$171
+OaNoCode{codeid='2', commandName=班车信息公告, typeCode='BUS', commandType='B', increasseRule='201703', lastTime=2017-03-14 17:20:41.0, codeNum='002', remark='null'}
+*3
+$3
+SET
+$9
+OA_CODE_2
+$171
+OaNoCode{codeid='2', commandName=班车信息公告, typeCode='BUS', commandType='B', increasseRule='201703', lastTime=2017-03-14 17:20:41.0, codeNum='002', remark='null'}
+*3
+$3
+SET
+$9
+OA_CODE_2
+$171
+OaNoCode{codeid='2', commandName=班车信息公告, typeCode='BUS', commandType='B', increasseRule='201703', lastTime=2017-03-14 17:20:41.0, codeNum='002', remark='null'}
+*3
+$3
+SET
+$9
+OA_CODE_2
+$171
+OaNoCode{codeid='2', commandName=班车信息公告, typeCode='BUS', commandType='B', increasseRule='201703', lastTime=2017-03-14 17:20:41.0, codeNum='002', remark='null'}
+*3
+$3
+SET
+$9
+OA_CODE_2
+$171
+OaNoCode{codeid='2', commandName=班车信息公告, typeCode='BUS', commandType='B', increasseRule='201703', lastTime=2017-03-14 17:20:41.0, codeNum='002', remark='null'}
+*3
+$3
+SET
+$9
+OA_CODE_2
+$171
+OaNoCode{codeid='2', commandName=班车信息公告, typeCode='BUS', commandType='B', increasseRule='201703', lastTime=2017-03-14 17:20:41.0, codeNum='002', remark='null'}
+*3
+$3
+SET
+$9
+OA_CODE_2
+$171
+OaNoCode{codeid='2', commandName=班车信息公告, typeCode='BUS', commandType='B', increasseRule='201703', lastTime=2017-03-14 17:20:41.0, codeNum='002', remark='null'}
+*3
+$3
+SET
+$9
+OA_CODE_2
+$171
+OaNoCode{codeid='2', commandName=班车信息公告, typeCode='BUS', commandType='B', increasseRule='201703', lastTime=2017-03-14 17:20:41.0, codeNum='002', remark='null'}
+*3
+$3
+SET
+$9
+OA_CODE_2
+$171
+OaNoCode{codeid='2', commandName=班车信息公告, typeCode='BUS', commandType='B', increasseRule='201703', lastTime=2017-03-14 17:20:41.0, codeNum='002', remark='null'}
+*3
+$3
+SET
+$9
+OA_CODE_2
+$171
+OaNoCode{codeid='2', commandName=班车信息公告, typeCode='BUS', commandType='B', increasseRule='201703', lastTime=2017-03-14 17:20:41.0, codeNum='002', remark='null'}
+*3
+$3
+SET
+$9
+OA_CODE_2
+$171
+OaNoCode{codeid='2', commandName=班车信息公告, typeCode='BUS', commandType='B', increasseRule='201703', lastTime=2017-03-14 17:20:41.0, codeNum='002', remark='null'}
